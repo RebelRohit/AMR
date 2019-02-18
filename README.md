@@ -1,3 +1,3 @@
 # AMR
 Just a AI
-printf("I am amr and ia am feveloped by rr");
+printf("I am amr and i am developed by rr");
